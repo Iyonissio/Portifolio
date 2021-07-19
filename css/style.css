@@ -55,6 +55,7 @@ html {
 .site-main .site-banner .site-title h3{
     padding-top: 25%;
     font-weight: 500;
+    font-size: 28px;
 }
 
 .site-main .site-banner .site-title h3::after{
